@@ -37,11 +37,11 @@ Five different machine learning models were implemented and compared:
 ## 📊 Results
 | Model              | MAE   | RMSE  | R²    |
 |--------------------|-------|-------|-------|
-| Linear Regression  | X.XX  | X.XX  | X.XX  |
-| Random Forest      | X.XX  | X.XX  | X.XX  |
-| XGBoost            | X.XX  | X.XX  | X.XX  |
-| LSTM               | X.XX  | X.XX  | X.XX  |
-| Amira Model        | X.XX  | X.XX  | X.XX  |
+| Linear Regression  | 12433.0   | 16221.04  | 0.991  |
+| Random Forest      | 15572.5   | 18514.83  | 0.988  |
+| XGBoost            | 19914.83  | 25920.43  | 0.978  |
+| LSTM               | 9547.92   | 12738.86  | 0.994  |
+| Amira Model        | 11265.34  | 14959.89  | 0.984  |
 
 The **best-performing model** was **[insert best model name]**, achieving the lowest error metrics.
 
