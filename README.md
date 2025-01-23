@@ -43,12 +43,12 @@ Five different machine learning models were implemented and compared:
 | LSTM               | 9547.92   | 12738.86  | 0.994  |
 | Amira Model        | 11265.34  | 14959.89  | 0.984  |
 
-The **best-performing model** was **[insert best model name]**, achieving the lowest error metrics.
+The **best-performing model** was **LSTM**, achieving the lowest error metrics.
 
 ---
 
 ## 🚀 Key Insights
-- Model comparison revealed that [insert best model name] was most effective due to [reason why it performed better].
+- Model comparison revealed that LSTM was most effective due to lowest RMSE, MAE, and highest R² value.
 - Data preprocessing significantly improved the overall model performance.
 - Ensemble models like XGBoost and Random Forest provided better results than traditional regression methods.
 
@@ -74,11 +74,6 @@ This project was executed entirely in **Google Colab**. To replicate the results
     - seaborn
     - tensorflow/keras (for LSTM)
     - XGBoost
-
----
-
-## 🤝 Acknowledgments
-Special thanks to [mention collaborators or inspirations, if any].
 
 ---
 
